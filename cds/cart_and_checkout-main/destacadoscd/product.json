@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Radiohead - Pablo Honey - CD",
+        "price": 521.65,
+        "image": "../images/ph.JPG",
+        "details": "14,2 x 12,7 x 1,09 cm - 98,09 g"
+        
+        },
+        {
+        "id": 11,
+        "name": "Deftones - Saturday Night Wrist - CD",
+        "price": 329.29,
+        "image": "../images/snw.JPG",
+        "details": "12,4 x 14,2 x 0,99 cm - 98,09 g"
+        },
+        {
+        "id": 20,
+        "name": "Joy Division - Closer - CD",
+        "price": 585.04,
+        "image": "../images/c.JPG",
+        "details": "14,3 x 12,6 x 1,5 cm - 134,09 g"
+        },
+            {
+            "id": 34,
+            "name": "Zoé - Reptilectric - CD",
+            "price": 206.00,
+            "image": "../images/rep.webp",
+            "details": "14.15 x 0.94 x 12.47 cm"
+            },
+            {
+                "id": 51,
+                "name": "Arctic Monkeys - Humbug - CD",
+                "price": 333.84,
+                "image": "../images/hum.JPG",
+                "details": "13,41 x 13,59 x 0,79 cm - 58,11 g"
+                }
+]

@@ -1,0 +1,31 @@
+[
+                {
+                "id": 61,
+                "name": "Gorillaz - Demon Days - CD",
+                "price": 313.43,
+                "image": "../../images/dd.JPG",
+                "details": "12,4 x 14,2 x 1,19 cm - 102,06 g"
+                },
+                {
+                "id": 62,
+                "name": "Gorillaz - Plastic Beach - CD",
+                "price": 424.10,
+                "image": "../../images/pb.JPG",
+                "details": "30 x 1 x 30 cm - 43 g"
+                },
+                {
+                "id": 63,
+                "name": "Gorillaz - Humanz - CD",
+                "price": 405.93,
+                "image": "../../images/hu.JPEG",
+                "details": "14 x 12,5 x 1,1 cm - 80 g"
+                },
+                {
+                "id": 64,
+                "name": "Gorillaz - The Now Now - CD",
+                "price": 212.00,
+                "image": "../../images/tnn.JPG",
+                "details": "14,2 x 12,5 x 1,19 cm - 115,95 g"
+                }
+                
+]

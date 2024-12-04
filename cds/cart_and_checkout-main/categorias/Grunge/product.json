@@ -1,0 +1,31 @@
+[
+        {
+        "id": 21,
+        "name": "The Smashing Pumpkins - Gish - CD",
+        "price": 329.45,
+        "image": "../../images/g.JPG",
+        "details": "16,61 x 14,81 x 0,99 cm - 102,06 g"
+        },
+            {
+            "id": 28,
+            "name": "Nirvana - Bleach - CD",
+            "price": 466.38,
+            "image": "../../images/b.JPG",
+            "details": "13,69 x 14,5 x 0,79 cm - 167,83 g"
+            },
+            {
+            "id": 29,
+            "name": "Nirvana - Nevermind - CD",
+            "price": 659.78,
+            "image": "../../images/n.JPG",
+            "details": "12,6 x 14,3 x 0,99 cm - 94,12 g"
+            },
+            {
+            "id": 30,
+            "name": "Nirvana - In Utero - CD",
+            "price": 664.11,
+            "image": "../../images/iu.JPG",
+            "details": "14.22 x 1.02 x 12.45 cm"
+            }
+                
+]

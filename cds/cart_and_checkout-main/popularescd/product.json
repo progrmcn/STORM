@@ -1,0 +1,37 @@
+[
+            {
+            "id": 47,
+            "name": "Foo Fighters - In Your Honor - CD",
+            "price": 266.34,
+            "image": "../images/iyh.JPG",
+            "details": "32 x 32 x 32 cm - 40 g"
+            },
+                {
+                "id": 61,
+                "name": "Gorillaz - Demon Days - CD",
+                "price": 313.43,
+                "image": "../images/dd.JPG",
+                "details": "12,4 x 14,2 x 1,19 cm - 102,06 g"
+                },
+                {
+                    "id": 80,
+                    "name": "Talking Heads  - Talking Heads: 77 - CD",
+                    "price": 332.31,
+                    "image": "../images/77.JPG",
+                    "details": "12,4 x 14,2 x 1,19 cm - 94,12 g"
+                },
+                {
+                    "id": 93,
+                    "name": "Whirr - Feels Like You - CD",
+                    "price": 349.99,
+                    "image": "../images/fly.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 97 g"
+                },
+                {
+                    "id": 101,
+                    "name": "TV Girl - French Exit - CD",
+                    "price": 289.99,
+                    "image": "../images/fe.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 92 g"
+                }
+]

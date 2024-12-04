@@ -1,0 +1,66 @@
+[
+                {
+                "id": 56,
+                "name": "Mac DeMarco - 2 - CD",
+                "price": 516.16,
+                "image": "../../images/2.JPEG",
+                "details": "14,3 x 12,5 x 1,09 cm - 92,13 g"
+                },
+                {
+                "id": 57,
+                "name": "Mac DeMarco - Salad Days - CD",
+                "price": 331.70,
+                "image": "../../images/sal.JPG",
+                "details": "14,1 x 12,5 x 1,19 cm - 92,13 g"
+                },
+                {
+                "id": 58,
+                "name": "Mac DeMarco - Another One - CD",
+                "price": 329.12,
+                "image": "../../images/ao.JPG",
+                "details": "14,4 x 12,4 x 0,89 cm - 89,87 g"
+                },
+                {
+                "id": 59,
+                "name": "Mac DeMarco - This Old Dog - CD",
+                "price": 232.47,
+                "image": "../../images/tod.JPG",
+                "details": "14,3 x 12,5 x 1,19 cm - 92,13 g"
+                },
+                {
+                    "id": 96,
+                    "name": "Alex G - Trick - CD",
+                    "price": 269.99,
+                    "image": "../../images/tr.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 92 g"
+                },
+                {
+                    "id": 97,
+                    "name": "Alex G - DSU - CD",
+                    "price": 279.99,
+                    "image": "../../images/dsu.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 93 g"
+                },
+                {
+                    "id": 98,
+                    "name": "Alex G - God Save the Animals - CD",
+                    "price": 379.99,
+                    "image": "../../images/gsta.webp",
+                    "details": "12.9 x 14.5 x 1.0 cm - 97 g"
+                },
+                {
+                    "id": 99,
+                    "name": "Steve Lacy - Steve Lacy's Demo - CD",
+                    "price": 249.99,
+                    "image": "../../images/sld.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 91 g"
+                },
+                {
+                    "id": 100,
+                    "name": "Steve Lacy - Gemini Rights - CD",
+                    "price": 349.99,
+                    "image": "../../images/ger.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 96 g"
+                }
+                
+]

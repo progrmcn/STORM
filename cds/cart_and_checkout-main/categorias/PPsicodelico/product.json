@@ -1,0 +1,23 @@
+[
+                {
+                "id": 53,
+                "name": "Tame Impala - Lonerism - CD",
+                "price": 339.35,
+                "image": "../../images/lon.JPG",
+                "details": "14,2 x 12,4 x 0,4 cm - 51,03 g"
+                },
+                {
+                "id": 54,
+                "name": "Tame Impala - Currents - CD",
+                "price": 225.36,
+                "image": "../../images/cu.JPG",
+                "details": "14,2 x 12,4 x 0,4 cm - 42 g"
+                },
+                {
+                "id": 55,
+                "name": "Tame Impala - The Slow Rush - CD",
+                "price": 315.00,
+                "image": "../../images/tsr.JPG",
+                "details": "12,6 x 14,3 x 0,89 cm - 60,1 g"
+                }
+]

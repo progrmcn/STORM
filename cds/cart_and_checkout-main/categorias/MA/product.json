@@ -1,0 +1,94 @@
+[
+        {
+        "id": 8,
+        "name": "Deftones - Adrenaline - CD",
+        "price": 319.22,
+        "image": "../../images/a.JPG",
+        "details": "12,29 x 14,4 x 0,99 cm - 96,1 g"
+        },
+        {
+        "id": 9,
+        "name": "Deftones - Around The Fur - CD",
+        "price": 338.60,
+        "image": "../../images/atf.JPG",
+        "details": "14,1 x 12,7 x 0,99 cm - 98,09 g"
+        },
+        {
+        "id": 10,
+        "name": "Deftones - Deftones - CD",
+        "price": 319.25,
+        "image": "../../images/d.JPG",
+        "details": "12,29 x 14,2 x 1,19 cm - 98,09 g"
+        },
+        {
+        "id": 11,
+        "name": "Deftones - Saturday Night Wrist - CD",
+        "price": 329.29,
+        "image": "../../images/snw.JPG",
+        "details": "12,4 x 14,2 x 0,99 cm - 98,09 g"
+        },
+        {
+        "id": 12,
+        "name": "Deftones - Diamond Eyes - CD",
+        "price": 319.35,
+        "image": "../../images/de.JPG",
+        "details": "16,41 x 14,61 x 0,99 cm - 100,07 g"
+        },
+        {
+        "id": 13,
+        "name": "Deftones - Koi No Yokan - CD",
+        "price": 379.84,
+        "image": "../../images/kny.JPG",
+        "details": "14,2 x 14,3 x 1,09 cm - 104,04 g"
+        },
+        {
+        "id": 14,
+        "name": "Deftones - Ohms - CD",
+        "price": 708.99,
+        "image": "../../images/ohms.JPG",
+        "details": "12,5 x 14 x 1,4 cm - 51,88 g"
+        },
+            {
+            "id": 38,
+            "name": "System of a down - System of a down - CD",
+            "price": 125.00,
+            "image": "../../images/soad.JPG",
+            "details": "14,2 x 1 x 12,5 cm - 100 g"
+            },
+            {
+            "id": 39,
+            "name": "System of a down - Toxicity - CD",
+            "price": 442.73,
+            "image": "../../images/t.JPEG",
+            "details": "12,29 x 14,81 x 0,99 cm - 96,1 g"
+            },
+            {
+            "id": 40,
+            "name": "System of a down - Steal This Album! - CD",
+            "price": 169.01,
+            "image": "../../images/sta.JPG",
+            "details": "14.22 x 1.02 x 12.45 cm"
+            },
+            {
+            "id": 41,
+            "name": "System of a down - Mezmerize - CD",
+            "price": 149.00,
+            "image": "../../images/m.JPG",
+            "details": "14,2 x 1 x 12,5 cm - 100 g"
+            },
+            {
+            "id": 42,
+            "name": "System of a down - Hypnotize - CD",
+            "price": 337.33,
+            "image": "../../images/h.JPEG",
+            "details": "12,67 x 14,3 x 4,45 cm - 90,72 g"
+            },
+                {
+                    "id": 95,
+                    "name": "Fleshwater - We're Not Here to Be Loved - CD",
+                    "price": 259.99,
+                    "image": "../../images/wnhtbl.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 91 g"
+                }
+
+]

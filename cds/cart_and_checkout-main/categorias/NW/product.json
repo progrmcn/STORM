@@ -1,0 +1,37 @@
+[
+                {
+                    "id": 80,
+                    "name": "Talking Heads  - Talking Heads: 77 - CD",
+                    "price": 332.31,
+                    "image": "../../images/77.JPG",
+                    "details": "12,4 x 14,2 x 1,19 cm - 94,12 g"
+                },
+                {
+                    "id": 81,
+                    "name": "Talking Heads  - More Songs About Buildings And Food - CD",
+                    "price": 393.30,
+                    "image": "../../images/msabaf.JPG",
+                    "details": "14,1 x 14,3 x 0,99 cm - 94,12 g"
+                },
+                {
+                    "id": 82,
+                    "name": "Talking Heads  - Remain In Light - CD",
+                    "price": 319.00,
+                    "image": "../../images/ril.JPEG",
+                    "details": "12,5 x 14,2 x 1,19 cm - 94,12 g"
+                },
+                {
+                    "id": 83,
+                    "name": "Talking Heads  - Speaking In Tongues - CD",
+                    "price": 373.55,
+                    "image": "../../images/sit.JPG",
+                    "details": "12,7 x 14,3 x 0,99 cm - 98,09 g"
+                },
+                {
+                    "id": 84,
+                    "name": "Talking Heads  - True Stories - CD",
+                    "price": 331.70,
+                    "image": "../../images/ts.svg",
+                    "details": "12,6 x 14,2 x 1,3 cm - 81,93 g"
+                }
+]

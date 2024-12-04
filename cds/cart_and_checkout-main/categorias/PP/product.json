@@ -1,0 +1,67 @@
+[
+        {
+        "id": 19,
+        "name": "Joy Division - Unknown Pleasures - CD",
+        "price": 325.83,
+        "image": "../../images/up.JPG",
+        "details": "14,61 x 13,11 x 1,5 cm - 130,12 g"
+        },
+        {
+        "id": 20,
+        "name": "Joy Division - Closer - CD",
+        "price": 585.04,
+        "image": "../../images/c.JPG",
+        "details": "14,3 x 12,6 x 1,5 cm - 134,09 g"
+        },
+                {
+                "id": 65,
+                "name": "The Cure - Three Imaginary Boys - CD",
+                "price": 257.84,
+                "image": "../../images/tib.JPG",
+                "details": "12,19 x 14,3 x 1,09 cm - 96,1 g"
+                },
+                {
+                "id": 66,
+                "name": "The Cure - Seventeen Seconds - CD",
+                "price": 381.27,
+                "image": "../../images/ss.JPEG",
+                "details": "14,2 x 12,5 x 1,19 cm - 121,9 g"
+                },
+                {
+                "id": 67,
+                "name": "The Cure - Faith - CD",
+                "price": 351.18,
+                "image": "../../images/f.JPG",
+                "details": "12,6 x 14,3 x 0,99 cm - 96,1 g"
+                },
+                {
+                "id": 68,
+                "name": "The Cure - Pornography - CD",
+                "price": 456.07,
+                "image": "../../images/po.JPG",
+                "details": "14,1 x 12,6 x 1,5 cm - 140,05 g"
+                },
+                {
+                "id": 69,
+                "name": "The Cure - The Head on the Door - CD",
+                "price": 261.79,
+                "image": "../../images/thotd.JPG",
+                "details": "15,49 x 14,3 x 1,09 cm - 96,1 g"
+                },
+                {
+                "id": 70,
+                "name": "The Cure - Kiss Me, Kiss Me, Kiss Me - CD",
+                "price": 327.04,
+                "image": "../../images/km.JPEG",
+                "details": "12,19 x 14,3 x 0,99 cm - 94,12 g"
+                },
+                {
+                "id": 71,
+                "name": "The Cure - Disintegration - CD",
+                "price": 360.96,
+                "image": "../../images/di.JPG",
+                "details": "12,5 x 14,2 x 0,99 cm - 96,1 g"
+                }
+            
+                
+]

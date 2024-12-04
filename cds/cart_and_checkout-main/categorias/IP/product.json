@@ -1,0 +1,18 @@
+[
+                {
+                    "id": 101,
+                    "name": "TV Girl - Who Really Cares - CD",
+                    "price": 269.99,
+                    "image": "../../images/wrc.PNG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 90 g"
+                },
+                {
+                    "id": 102,
+                    "name": "TV Girl - French Exit - CD",
+                    "price": 289.99,
+                    "image": "../../images/fe.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 92 g"
+                }
+            
+                
+]

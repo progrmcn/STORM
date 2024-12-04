@@ -1,0 +1,31 @@
+[
+            {
+            "id": 49,
+            "name": "Arctic Monkeys - Whatever People Say I Am, That's What I'm Not - CD",
+            "price": 331.44,
+            "image": "../../images/wpsiiatwin.JPG",
+            "details": "12,5 x 14,2 x 0,5 cm - 60 g"
+            },
+            {
+            "id": 50,
+            "name": "Arctic Monkeys - Favourite Worst Nightmare - CD",
+            "price": 100.98,
+            "image": "../../images/fwn.JPEG",
+            "details": "14,2 x 12,5 x 1,5 cm - 100,07 g"
+            },
+            {
+                "id": 51,
+                "name": "Arctic Monkeys - Humbug - CD",
+                "price": 333.84,
+                "image": "../../images/hum.JPG",
+                "details": "13,41 x 13,59 x 0,79 cm - 58,11 g"
+                },
+                {
+                "id": 52,
+                "name": "Arctic Monkeys - AM - CD",
+                "price": 192.00,
+                "image": "../../images/am.JPG",
+                "details": "12,5 x 14,3 x 1,3 cm - 94,12 g"
+                } 
+                
+]

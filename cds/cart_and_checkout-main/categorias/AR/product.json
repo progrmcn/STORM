@@ -1,0 +1,31 @@
+[
+        {
+        "id": 4,
+        "name": "Radiohead - Kid A - CD",
+        "price": 323.40,
+        "image": "../../images/ka.JPG",
+        "details": "14,2 x 12,5 x 1,19 cm - 104,04 g"
+        },
+        {
+        "id": 5,
+        "name": "Radiohead - Amnesiac - CD",
+        "price": 357.75,
+        "image": "../../images/amn.JPG",
+        "details": "14,2 x 12,5 x 1,19 cm - 108,01 g"
+        },
+        {
+        "id": 6,
+        "name": "Radiohead - In Rainbows - CD",
+        "price": 750.65,
+        "image": "../../images/ir.JPG",
+        "details": "14,1 x 12,7 x 0,71 cm - 64,07 g"
+        },
+        {
+        "id": 7,
+        "name": "Radiohead - A Moon Shaped Pool - CD",
+        "price": 601.42,
+        "image": "../../images/amsp.JPG",
+        "details": "12,8 x 13,21 x 0,79 cm - 83,91 g"
+        }
+                         
+]

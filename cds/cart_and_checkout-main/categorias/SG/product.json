@@ -1,0 +1,66 @@
+[
+        {
+        "id": 16,
+        "name": "My Bloody Valentine - Isn't Anything - CD",
+        "price": 566.43,
+        "image": "../../images/ia.JPG",
+        "details": "12,29 x 14,1 x 1,19 cm - 87,88 g"
+        },
+        {
+        "id": 17,
+        "name": "My Bloody Valentine - Loveless - CD",
+        "price": 416.70,
+        "image": "../../images/l.JPEG",
+        "details": "13,8 x 13,8 x 0,5 cm - 70 g"
+        },
+        {
+        "id": 18,
+        "name": "My Bloody Valentine - Mbv - CD",
+        "price": 383.17,
+        "image": "../../images/mbv.JPG",
+        "details": "13,89 x 13,89 x 0,89 cm - 62,08 g"
+        },
+                {
+                    "id": 85,
+                    "name": "Slowdive - Just for a Day - CD",
+                    "price": 299.99,
+                    "image": "../../images/jfad.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 90 g"
+                },
+            {
+                    "id": 86,
+                    "name": "Slowdive - Souvlaki - CD",
+                    "price": 349.99,
+                    "image": "../../images/sou.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 95 g"
+                },
+                {
+                    "id": 88,
+                    "name": "Slowdive - Slowdive (2017) - CD",
+                    "price": 379.99,
+                    "image": "../../images/sl.JPEG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 97 g"
+                },
+                {
+                    "id": 92,
+                    "name": "Whirr - Distressor - CD",
+                    "price": 279.99,
+                    "image": "../../images/dis.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 92 g"
+                },
+                {
+                    "id": 93,
+                    "name": "Whirr - Around - CD",
+                    "price": 259.99,
+                    "image": "../../images/ar.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 90 g"
+                },
+                {
+                    "id": 94,
+                    "name": "Whirr - Feels Like You - CD",
+                    "price": 349.99,
+                    "image": "../../images/fly.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 97 g"
+                }
+                
+]

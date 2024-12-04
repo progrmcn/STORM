@@ -1,0 +1,44 @@
+[
+                {
+                    "id": 76,
+                    "name": "Mazzy Star - She Hangs Brightly - CD",
+                    "price": 331.70,
+                    "image": "../../images/shb.JPG",
+                    "details": "13 x 14,3 x 0,99 cm - 92,13 g"
+                },
+                {
+                    "id": 77,
+                    "name": "Mazzy Star - So Tonight That I Might See - CD",
+                    "price": 294.85,
+                    "image": "../../images/sttims.JPG",
+                    "details": "14,1 x 12,7 x 1,09 cm - 96,1 g"
+                },
+                {
+                    "id": 78,
+                    "name": "Mazzy Star - Among My Swan - CD",
+                    "price": 409.78,
+                    "image": "../../images/ams.JPG",
+                    "details": "14,4 x 13 x 0,99 cm - 95,25 g"
+                },
+                {
+                    "id": 87,
+                    "name": "Slowdive - Pygmalion - CD",
+                    "price": 279.99,
+                    "image": "../../images/py.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 92 g"
+                },
+                {
+                    "id": 90,
+                    "name": "Lush - Spooky - CD",
+                    "price": 289.99,
+                    "image": "../../images/sp.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 90 g"
+                },
+                {
+                    "id": 91,
+                    "name": "Lush - Split - CD",
+                    "price": 319.99,
+                    "image": "../../images/spli.JPG",
+                    "details": "12.9 x 14.5 x 1.0 cm - 93 g"
+                }
+]

@@ -1,0 +1,37 @@
+[
+        {
+            "id": 4,
+            "name": "Radiohead - Kid A - CD",
+            "price": 323.40,
+            "image": "../images/ka.JPG",
+            "details": "14,2 x 12,5 x 1,19 cm - 104,04 g"
+            },
+        {
+            "id": 9,
+            "name": "Deftones - Around The Fur - CD",
+            "price": 338.60,
+            "image": "../images/atf.JPG",
+            "details": "14,1 x 12,7 x 0,99 cm - 98,09 g"
+            },
+        {
+            "id": 17,
+            "name": "My Bloody Valentine - Loveless - CD",
+            "price": 416.70,
+            "image": "../images/l.JPEG",
+            "details": "13,8 x 13,8 x 0,5 cm - 70 g"
+            },
+        {
+            "id": 19,
+            "name": "Joy Division - Unknown Pleasures - CD",
+            "price": 325.83,
+            "image": "../images/up.JPG",
+            "details": "14,61 x 13,11 x 1,5 cm - 130,12 g"
+            },
+        {
+            "id": 22,
+            "name": "The Smashing Pumpkins - Siamese Dream - CD",
+            "price": 283.08,
+            "image": "../images/sd.JPEG",
+            "details": "14,1 x 12,5 x 1,19 cm - 92,13 g"
+            }   
+]
