@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STORM® - CDs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <a href="../../index.html">
+                <img src="../../img/home.png" alt="Regresar al inicio" class="back-home">
+            </a><h1>CATALOGO - CDs</h1>
+            
+             <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Buscar productos...">
+            </div>
+            <div class="iconCart">
+                <img src="icon.png">
+                <div class="totalQuantity"></div>
+            </div>
+        </header>
+        <nav>
+            <menu>
+             <menuitem><a href="categorias/RA/RockAlternativo.html">ROCK ALTERNATIVO</a></menuitem>
+             <menuitem><a href="categorias/AR/ArtRock.html">ART ROCK</a></menuitem>
+             <menuitem><a href="categorias/MA/MetalAlternativo.html">METAL ALTERNATIVO</a></menuitem>
+             <menuitem><a href="categorias/IR/IndieRock.html">INDIE ROCK</a></menuitem>
+             <menuitem><a href="categorias/SG/Shoegaze.html">SHOEGAZE</a></menuitem>
+             </menu>
+        </nav>
+        <nav>
+            <menu>
+             <menuitem><a href="categorias/PP/PostPunk.html">POST PUNK</a></menuitem>
+             <menuitem><a href="categorias/Grunge/Grunge.html">GRUNGE</a></menuitem>
+             <menuitem><a href="categorias/PPsicodelico/PopPsicodelico.html">POP PSICODELICO</a></menuitem>
+             <menuitem><a href="categorias/AP/ArtPop.html">ART POP</a></menuitem>
+             <menuitem><a href="categorias/DP/DreamPop.html">DREAM POP</a></menuitem>
+            </menu>
+        </nav>
+        <nav>
+            <menu>
+             <menuitem><a href="categorias/NW/NewWave.html">NEW WAVE</a></menuitem>
+             <menuitem><a href="categorias/BP/BedroomPop.html">BEDROOM POP</a></menuitem>
+             <menuitem><a href="categorias/IP/IndiePop.html">INDIE POP</a></menuitem>
+            </menu>
+        </nav>
+        <div class="listProduct">
+        </div>
+    </div>
+
+    <div class="cart">
+        <h2>CARRITO</h2>
+        <div class="listCart">
+            <div class="item">
+                <img src="images/1.webp">
+                <div class="content">
+                    <div class="name"></div>
+                    <div class="price"></div>
+                </div>
+                <div class="quantity">
+                    <button>-</button>
+                    <span class="value"></span>
+                    <button>+</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="buttons">
+            <div class="close">CERRAR</div>
+            <div class="checkout">
+                <a href="checkout.html">PROCEDER AL PAGO</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
