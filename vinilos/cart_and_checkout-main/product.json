@@ -3,7 +3,7 @@
         "id": 102,
         "name": "Radiohead - Pablo Honey - Vinilo",
         "price": 880.07,
-        "image": "images/ph.jpeg",
+        "image": "images/ph.jpg",
         "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
         
         },
@@ -11,14 +11,14 @@
         "id": 103,
         "name": "Radiohead - The Bends - Vinilo",
         "price": 1097.00,
-        "image": "images/tb.jpeg",
+        "image": "images/tb.jpg",
         "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
         },
         {
         "id": 104,
         "name": "Radiohead - OK Computer - Vinilo",
         "price": 958.61,
-        "image": "images/oc.jpeg",
+        "image": "images/oc.jpg",
         "details": "31,5 x 31,19 x 0,79 cm - 566,14 g"
         }
         ,
@@ -26,49 +26,49 @@
         "id": 105,
         "name": "Radiohead - Kid A - Vinilo",
         "price": 629.70,
-        "image": "images/ka.jpeg",
+        "image": "images/ka.jpg",
         "details": "31,8 x 31,5 x 0,79 cm - 561,89 g"
         },
         {
         "id": 106,
         "name": "Radiohead - Amnesiac - Vinilo",
         "price": 997.47,
-        "image": "images/amn.JPG",
+        "image": "images/amn.jpg",
         "details": "30,48 x 32 x 2,54 cm - 226,8 g"
         },
         {
         "id": 107,
         "name": "Radiohead - In Rainbows - Vinilo",
         "price": 1097.00,
-        "image": "images/ir.JPG",
+        "image": "images/ir.jpg",
         "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
         },
         {
         "id": 108,
         "name": "Radiohead - A Moon Shaped Pool - Vinilo",
         "price": 852.19,
-        "image": "images/amsp.JPG",
+        "image": "images/amsp.jpg",
         "details": "31,5 x 31,2 x 1 cm - 560 g"
         },
         {
         "id": 109,
         "name": "Deftones - Adrenaline - Vinilo",
         "price": 650.18,
-        "image": "images/a.JPG",
+        "image": "images/a.jpg",
         "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
         },
         {
         "id": 110,
         "name": "Deftones - Around The Fur - Vinilo",
         "price": 663.22,
-        "image": "images/atf.JPG",
+        "image": "images/atf.jpg",
         "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
         },
         {
         "id": 111,
         "name": "Deftones - Deftones - Vinilo",
         "price": 625.85,
-        "image": "images/d.JPG",
+        "image": "images/d.jpg",
         "details": "0,3 x 31,2 x 31,5 cm - 294,84 g"
         },
         {
@@ -96,28 +96,28 @@
         "id": 115,
         "name": "Deftones - Ohms - Vinilo",
         "price": 620.15,
-        "image": "images/ohms.JPG",
+        "image": "images/ohms.jpg",
         "details": "31,39 x 31,39 x 0,79 cm - 235,87 g"
         },
         {
         "id": 116,
         "name": "The Strokes - Is This It - Vinilo",
         "price": 670.03,
-        "image": "images/iti.JPG",
+        "image": "images/iti.jpg",
         "details": "30,99 x 0,76 x 30,73 cm - 68,04 g"
         },
         {
         "id": 117,
         "name": "My Bloody Valentine - Isn't Anything - Vinilo",
         "price": 1292.04,
-        "image": "images/ia.JPG",
+        "image": "images/ia.jpg",
         "details": "31,3 x 31,3 x 0,8 cm - 180 g"
         },
         {
         "id": 118,
         "name": "My Bloody Valentine - Loveless - Vinilo",
         "price": 930.55,
-        "image": "images/l.JPEG",
+        "image": "images/l.jpeg",
         "details": "0,91 x 31,57 x 31,55 cm - 598,74 g"
         },
         {
