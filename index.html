@@ -1,81 +1,63 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>STORM® - Vinilos</title>
-    <link rel="stylesheet" href="style.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/Practica4.css">
+	<title>STORM®</title>
+	
 </head>
 <body>
-
-    <div class="container">
-        <header>
-            <a href="../../index.html">
-                <img src="../../img/home.png" alt="Regresar al inicio" class="back-home">
-            </a><h1>CATALOGO - Vinilos</h1>
-            <div class="search-bar">
-                <input type="text" id="searchInput" placeholder="Buscar productos...">
-            </div>
-            <div class="iconCart">
-                <img src="icon.png">
-                <div class="totalQuantity"></div>
-            </div>
-        </header>
-
-        <nav>
-            <menu>
-             <menuitem><a href="categorias/RA/RockAlternativo.html">ROCK ALTERNATIVO</a></menuitem>
-             <menuitem><a href="categorias/AR/ArtRock.html">ART ROCK</a></menuitem>
-             <menuitem><a href="categorias/MA/MetalAlternativo.html">METAL ALTERNATIVO</a></menuitem>
-             <menuitem><a href="categorias/IR/IndieRock.html">INDIE ROCK</a></menuitem>
-             <menuitem><a href="categorias/SG/Shoegaze.html">SHOEGAZE</a></menuitem>
-             </menu>
-        </nav>
-        <nav>
-            <menu>
-             <menuitem><a href="categorias/PP/PostPunk.html">POST PUNK</a></menuitem>
-             <menuitem><a href="categorias/Grunge/Grunge.html">GRUNGE</a></menuitem>
-             <menuitem><a href="categorias/PPsicodelico/PopPsicodelico.html">POP PSICODELICO</a></menuitem>
-             <menuitem><a href="categorias/AP/ArtPop.html">ART POP</a></menuitem>
-             <menuitem><a href="categorias/DP/DreamPop.html">DREAM POP</a></menuitem>
-            </menu>
-        </nav>
-        <nav>
-            <menu>
-             <menuitem><a href="categorias/NW/NewWave.html">NEW WAVE</a></menuitem>
-             <menuitem><a href="categorias/BP/BedroomPop.html">BEDROOM POP</a></menuitem>
-             <menuitem><a href="categorias/IP/IndiePop.html">INDIE POP</a></menuitem>
-            </menu>
-        </nav>
-        <div class="listProduct">
-        </div>
+<header>
+	<h1><img src="img/STORM.png"></h1>
+	<nav>
+		<ul class="menu-horizontal">
+			<li><a href="/vinilos/cart_and_checkout-main/index.html">Vinilos</a>
+			<ul class="menu-vertical">
+			<li><a href="vinilos/cart_and_checkout-main/rebajasv/rebajas.html">DESCUENTOS</a></li>
+			<li><a href="vinilos/cart_and_checkout-main/popularesv/index.html">MÁS VENDIDOS</a></li>
+			<li><a href="vinilos/cart_and_checkout-main/destacadosv/index.html">DESTACADOS</a></li>
+		</ul>
+	    </li>
+			<li><a href="/cds/cart_and_checkout-main/index.html">CDs</a>
+			<ul class="menu-vertical">
+			<li><a href="cds/cart_and_checkout-main/rebajascd/rebajas.html">DESCUENTOS</a></li>
+			<li><a href="cds/cart_and_checkout-main/popularescd/index.html">MÁS VENDIDOS</a></li>
+			<li><a href="cds/cart_and_checkout-main/destacadoscd/index.html">DESTACADOS</a></li>
+		</ul>
+		
+	</nav>
+</header>
+<section>
+<p>Bienvenido a STORM®, el lugar donde podras encontrar vinilos y CDs de una gran seleccion de generos, artistas y bandas. </p>
+<br>
+<p>Somos una tienda localizada en Ensenada, BC. con mas de #!&*^$ años de expriencia (0), a pesar de esto, puedes confiar en la empresa en la entrega de tus productos de manera rapida y segura, con nuestros mas de %@^&* empacadores (1), &*^#@$ repartidores (1), !^@*$&% empleados en marketing (1), &*@#%$ gerentes de tienda (1) y 1 Fundador. Envios a todo Mexico!11!!!1!1!!11</p>
+<br>
+<p>Somos una tienda sin sucursal fisica, asi que, cualquier queja, reclamo, duda o situacion que requiera de atencion especial, se puede comentar con nuestro equipo de servicio al cliente!!!1!1111!1!. En el fondo se proporcionan Términos y condiciones de devolución, reembolso, cambio, Conócenos, acerca  de..., Ubicación (Centro de operaciones), Preguntas frecuentas (FAQ´S), Política de privacidad, Condiciones de compra, Envíos, plazos y costos, Métodos de pago, Tarjetas de regalo y Registro de usuario.</p>
+</section>
+<footer>
+</footer>
+<footer>
+    <p>&copy; 2024 Storm. Todos los derechos reservados.</p>
+    <div class="links">
+        <a href="documentoslegales/tycsp.pdf">Términos y Condiciones</a>
+        <a href="documentoslegales/politicasenvio.pdf">Política de Envío</a>
+        <a href="documentoslegales/avisodeprivacidad.pdf">Política de Privacidad</a>
     </div>
-
-    <div class="cart">
-        <h2>CARRITO</h2>
-        <div class="listCart">
-            <div class="item">
-                <img src="images/1.webp">
-                <div class="content">
-                    <div class="name"></div>
-                    <div class="price"></div>
-                </div>
-                <div class="quantity">
-                    <button>-</button>
-                    <span class="value"></span>
-                    <button>+</button>
-                </div>
-            </div>
-        </div>
-
-        <div class="buttons">
-            <div class="close">CERRAR</div>
-            <div class="checkout">
-                <a href="checkout.html">PROCEDER AL PAGO</a>
-            </div>
-        </div>
+    <div class="social">
+        <a href="https://www.facebook.com/profile.php?id=61569951059300&mibextid=LQQJ4d&rdid=sHQm59xxEz8FlPYZ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1AyXAqv5dA%2F%3Fmibextid%3DLQQJ4d#" target="_blank" aria-label="Facebook">
+            Facebook
+        </a>
+        <a href="https://www.instagram.com/cd_vinilo_storm/?igsh=czNvejJiZ3pjeTY0" target="_blank" aria-label="Instagram">
+            Instagram
+        </a>
+        <a href="https://x.com/StormStore_" target="_blank" aria-label="Twitter">
+            Twitter
+        </a>
+        <a href="#contacto" aria-label="Contacto">
+            Contacto
+        </a>
     </div>
-
-    <script src="app.js"></script>
-</body>
+</footer>
+<!-- </body> -->
 </html>
