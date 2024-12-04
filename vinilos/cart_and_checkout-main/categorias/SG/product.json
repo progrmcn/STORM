@@ -1,0 +1,66 @@
+[
+                {   
+                    "id": 117,
+                    "name": "My Bloody Valentine - Isn't Anything - Vinilo",
+                    "price": 1292.04,
+                    "image": "../../images/ia.JPG",
+                    "details": "31,3 x 31,3 x 0,8 cm - 180 g"
+                },
+                     {
+                    "id": 118,
+                    "name": "My Bloody Valentine - Loveless - Vinilo",
+                    "price": 930.55,
+                    "image": "../../images/l.JPEG",
+                    "details": "0,91 x 31,57 x 31,55 cm - 598,74 g"
+                    },
+                    {
+                    "id": 119,
+                    "name": "My Bloody Valentine - Mbv - Vinilo",
+                    "price": 711.08,
+                    "image": "../../images/mbv.JPG",
+                    "details": "31,39 x 31,09 x 1,09 cm - 420,14 g"
+                    },
+                    {
+                        "id": 186,
+                        "name": "Slowdive - Just for a Day - Vinilo",
+                        "price": 1199.99,
+                        "image": "../../images/jfad.JPG",
+                        "details": "0.5 x 31.5 x 31.5 cm - 300 g"
+                        },
+                        {
+                        "id": 187,
+                        "name": "Slowdive - Souvlaki - Vinilo",
+                        "price": 1299.99,
+                        "image": "../../images/sou.JPG",
+                        "details": "0.4 x 31.5 x 31.2 cm - 310 g"
+                        },
+                        {
+                            "id": 189,
+                            "name": "Slowdive - Slowdive (2017) - Vinilo",
+                            "price": 1399.99,
+                            "image": "../../images/sl.JPEG",
+                            "details": "0.4 x 31.5 x 31.2 cm - 305 g"
+                            },
+                            {
+                                "id": 192,
+                                "name": "Whirr - Distressor - Vinilo",
+                                "price": 1199.99,
+                                "image": "../../images/dis.JPG",
+                        "details": "0.4 x 31.5 x 31.2 cm - 295 g"
+                            },
+                            {
+                                "id": 193,
+                                "name": "Whirr - Around - Vinilo",
+                                "price": 1149.99,
+                                "image": "../../images/ar.JPG",
+                        "details": "0.4 x 31.5 x 31.5 cm - 300 g"
+                            },
+                            {
+                                "id": 194,
+                                "name": "Whirr - Feels Like You - Vinilo",
+                                "price": 1399.99,
+                                "image": "../../images/fly.JPG",
+                        "details": "0.4 x 31.5 x 31.2 cm - 320 g"
+                            }
+
+]

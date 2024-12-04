@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STORM® - Checkout</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+<div class="container">
+    <div class="checkoutLayout">
+
+        
+        <div class="returnCart">
+            <h2><a href="/">Continuar comprando...</a></h2>
+            <h1>LISTA DE PRODUCTOS EN EL CARRITO</h1>
+            <div class="list">
+
+                <div class="item">
+                    <img src="images/1.webp">
+                    <div class="info">
+                        <div class="name"></div>
+                        <div class="price"></div>
+                    </div>
+                    <div class="quantity"></div>
+                    <div class="returnPrice"></div>
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="right">
+            <h1>PAGO</h1>
+
+            <div class="form">
+                <div class="group">
+                    <label for="name">NOMBRE COMPLETO</label>
+                    <input type="text" name="name" id="name">
+                </div>
+    
+                <div class="group">
+                    <label for="phone">NUMERO DE TELEFONO</label>
+                    <input type="text" name="phone" id="phone">
+                </div>
+    
+                <div class="group">
+                    <label for="address">DIRECCION</label>
+                    <input type="text" name="address" id="address">
+                </div>
+    
+                <div class="group">
+                    <label for="country">PAIS</label>
+                    <select name="country" id="country">
+                        <option value="">SELECCIONAR..</option>
+                        <option value="">MEXICO</option>
+                    </select>
+                </div>
+    
+                <div class="group">
+                    <label for="city">CIUDAD</label>
+                    <select name="city" id="city">
+                        <option value="">SELECCIONAR..</option>
+                        <option value="">ENSENADA</option>
+                    </select>
+                </div>
+                <div class="group">
+                    <label for="payment">NUMERO DE TARJETA</label>
+                    <input type="text" name="payment" id="payment">
+                </div>
+                <div class="group">
+                    <label for="CVV">CVV</label>
+                    <input type="text" name="CVV" id="CVV">
+                </div>
+            </div>
+            <div class="return">
+                <div class="row">
+                    <div>CANTIDAD TOTAL</div>
+                    <div class="totalQuantity"></div>
+                </div>
+                <div class="row">
+                    <div>PRECIO TOTAL</div>
+                    <div class="totalPrice"></div>
+                </div>
+            </div>
+            <button class="buttonCheckout" id="checkoutButton">PROCEDER AL PAGO</button>
+            </div>
+    </div>
+</div>
+<div id="overlay"></div>
+<div id="modal">
+    <h2>¡Gracias por tu compra, <span id="customerName"></span>!</h2>
+    <p>Productos comprados:</p>
+    <ul id="productList"></ul>
+    <button class="close" id="closeModal">Cerrar</button>
+</div>
+
+<script>
+    document.getElementById('checkoutButton').addEventListener('click', function() {
+        // Obtener el nombre del usuario
+        const name = document.getElementById('name').value || "Cliente";
+
+        // Obtener los productos (por simplicidad, usamos datos estáticos aquí)
+        const productList = document.querySelectorAll('.list .item .name');
+        const productNames = Array.from(productList).map(product => product.textContent);
+
+        // Insertar los datos en el modal
+        document.getElementById('customerName').textContent = name;
+        const productListElem = document.getElementById('productList');
+        productListElem.innerHTML = '';
+        productNames.forEach(product => {
+            const li = document.createElement('li');
+            li.textContent = product;
+            productListElem.appendChild(li);
+        });
+
+        // Mostrar el modal
+        document.getElementById('modal').style.display = 'block';
+        document.getElementById('overlay').style.display = 'block';
+    });
+
+    document.getElementById('closeModal').addEventListener('click', function() {
+        // Ocultar el modal
+        document.getElementById('modal').style.display = 'none';
+        document.getElementById('overlay').style.display = 'none';
+    });
+</script>
+
+
+<script src="checkout.js"></script>
+
+</body>
+</html>

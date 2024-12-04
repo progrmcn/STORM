@@ -1,0 +1,31 @@
+[
+    {
+        "id": 150,
+        "name": "Arctic Monkeys - Whatever People Say I Am, That's What I'm Not - Vinilo",
+        "price": 802.00,
+        "image": "../../images/wpsiiatwin.JPG",
+        "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+        },
+        {
+        "id": 151,
+        "name": "Arctic Monkeys - Favourite Worst Nightmare - Vinilo",
+        "price": 785.54,
+        "image": "../../images/fwn.JPEG",
+        "details": "31,39 x 31,39 x 0,79 cm - 235,87 g"
+        },
+        {
+            "id": 152,
+            "name": "Arctic Monkeys - Humbug - Vinilo",
+            "price": 622.52,
+            "image": "../../images/hum.JPG",
+            "details": "31,29 x 31,5 x 1,09 cm - 447,92 g"
+            },
+            {
+            "id": 153,
+            "name": "Arctic Monkeys - AM - Vinilo",
+            "price": 740.00,
+            "image": "../../images/am.JPG",
+            "details": "31,9 x 31,19 x 0,79 cm - 328 g"
+            }
+                
+]

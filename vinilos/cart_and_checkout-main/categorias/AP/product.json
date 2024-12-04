@@ -1,0 +1,31 @@
+[
+    {
+        "id": 162,
+        "name": "Gorillaz - Demon Days - Vinilo",
+        "price": 957.15,
+        "image": "../../images/dd.JPG",
+        "details": "31,29 x 31,09 x 0,79 cm - 597,89 g"
+        },
+        {
+        "id": 163,
+        "name": "Gorillaz - Plastic Beach - Vinilo",
+        "price": 759.24,
+        "image": "../../images/pb.JPG",
+        "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+        },
+        {
+        "id": 164,
+        "name": "Gorillaz - Humanz - Vinilo",
+        "price": 800.00,
+        "image": "../../images/hu.JPEG",
+        "details": "30,99 x 1,02 x 30,99 cm - 612,35 g"
+        },
+        {
+        "id": 165,
+        "name": "Gorillaz - The Now Now - Vinilo",
+        "price": 667.51,
+        "image": "../../images/tnn.JPG",
+        "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+        }
+                
+]

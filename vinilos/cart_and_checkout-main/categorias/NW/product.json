@@ -1,0 +1,37 @@
+[
+    {
+        "id": 181,
+        "name": "Talking Heads - Talking Heads: 77 - Vinilo",
+        "price": 332.31,
+        "image": "../../images/77.JPG",
+        "details": "0.5 x 31.5 x 31.5 cm - 300 g"
+        },
+        {
+        "id": 182,
+        "name": "Talking Heads - More Songs About Buildings And Food - Vinilo",
+        "price": 657.01,
+        "image": "../../images/msabaf.JPG",
+        "details": "33,02 x 2,54 x 33,02 cm - 340 g"
+        },
+        {
+        "id": 183,
+        "name": "Talking Heads - Remain In Light - Vinilo",
+        "price": 579.06,
+        "image": "../../images/ril.JPEG",
+        "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+        },
+        {
+        "id": 184,
+        "name": "Talking Heads - Speaking In Tongues - Vinilo",
+        "price": 697.72,
+        "image": "../../images/sit.JPG",
+        "details": "31,19 x 31,19 x 0,41 cm - 278,11 g"
+        },
+        {
+        "id": 185,
+        "name": "Talking Heads - True Stories - Vinilo",
+        "price": 659.19,
+        "image": "../../images/ts.svg",
+        "details": "0,4 x 31,2 x 31,2 cm - 295 g"
+        }
+]

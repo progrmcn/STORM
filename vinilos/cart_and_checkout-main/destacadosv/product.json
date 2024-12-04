@@ -1,0 +1,38 @@
+[
+    {
+        "id": 102,
+        "name": "Radiohead - Pablo Honey - Vinilo",
+        "price": 880.07,
+        "image": "../images/ph.JPG",
+        "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+        
+        },
+        {
+        "id": 112,
+        "name": "Deftones - Saturday Night Wrist - Vinilo",
+        "price": 824.87,
+        "image": "../images/snw.JPG",
+        "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+        },
+        {
+        "id": 121,
+        "name": "Joy Division - Closer - Vinilo",
+        "price": 623.26,
+        "image": "../images/c.JPG",
+        "details": "30,48 x 32 x 2,54 cm - 226,8 g"
+        },
+            {
+            "id": 135,
+            "name": "Zoé - Reptilectric - Vinilo",
+            "price": 730.00,
+            "image": "../images/rep.webp",
+            "details": "32,5 x 0,5 x 32,5 cm - 1,96 kg"
+            },
+            {
+                "id": 152,
+                "name": "Arctic Monkeys - Humbug - Vinilo",
+                "price": 622.52,
+                "image": "../images/hum.JPG",
+                "details": "31,29 x 31,5 x 1,09 cm - 447,92 g"
+                }
+]

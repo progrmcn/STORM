@@ -1,0 +1,66 @@
+[
+    {
+        "id": 157,
+        "name": "Mac DeMarco - 2 - Vinilo",
+        "price": 702.27,
+        "image": "../../images/2.JPEG",
+        "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+        },
+        {
+        "id": 158,
+        "name": "Mac DeMarco - Salad Days - Vinilo",
+        "price": 828.43,
+        "image": "../../images/sal.JPG",
+        "details": "32 x 31,6 x 0,79 cm - 358,05 g"
+        },
+        {
+        "id": 159,
+        "name": "Mac DeMarco - Another One - Vinilo",
+        "price": 623.97,
+        "image": "../../images/ao.JPG",
+        "details": "30,48 x 32 x 2,54 cm - 226,8 g"
+        },
+        {
+        "id": 160,
+        "name": "Mac DeMarco - This Old Dog - Vinilo",
+        "price": 556.38,
+        "image": "../../images/tod.JPG",
+        "details": "31,19 x 31,09 x 0,79 cm - 303,91 g"
+        },
+        {
+            "id":196,
+            "name": "Alex G - Trick - Vinilo",
+            "price": 1179.99,
+            "image": "../../images/tr.JPG",
+    "details": "0.4 x 31.5 x 31.2 cm - 300 g"
+        },
+        {
+            "id": 197,
+            "name": "Alex G - DSU - Vinilo",
+            "price": 1199.99,
+            "image": "../../images/dsu.JPG",
+    "details": "0.5 x 31.5 x 31.5 cm - 305 g"
+        },
+        {
+            "id": 198,
+            "name": "Alex G - God Save the Animals - Vinilo",
+            "price": 1399.99,
+            "image": "../../images/gsta.webp",
+    "details": "0.4 x 31.5 x 31.2 cm - 325 g"
+        },
+        {
+            "id": 199,
+            "name": "Steve Lacy - Steve Lacy's Demo - Vinilo",
+            "price": 1149.99,
+            "image": "../../images/sld.JPG",
+    "details": "0.4 x 31.5 x 31.2 cm - 295 g"
+        },
+        {
+            "id": 200,
+            "name": "Steve Lacy - Gemini Rights - Vinilo",
+            "price": 1299.99,
+            "image": "../../images/ger.JPG",
+    "details": "0.4 x 31.5 x 31.2 cm - 320 g"
+        }
+                
+]

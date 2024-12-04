@@ -1,0 +1,37 @@
+[
+            {
+            "id": 148,
+            "name": "Foo Fighters - In Your Honor - Vinilo",
+            "price":1051.73,
+            "image": "../images/iyh.JPG",
+            "details": "31,34 x 31,57 x 0,53 cm - 430,91 g"
+            },
+                {
+                "id": 162,
+                "name": "Gorillaz - Demon Days - Vinilo",
+                "price": 957.15,
+                "image": "../images/dd.JPG",
+                "details": "31,29 x 31,09 x 0,79 cm - 597,89 g"
+                },
+                {
+                "id": 181,
+                "name": "Talking Heads - Talking Heads: 77 - Vinilo",
+                "price": 332.31,
+                "image": "../images/77.JPG",
+                "details": "0.5 x 31.5 x 31.5 cm - 300 g"
+                },
+                {
+                    "id": 194,
+                    "name": "Whirr - Feels Like You - Vinilo",
+                    "price": 1399.99,
+                    "image": "../images/fly.JPG",
+            "details": "0.4 x 31.5 x 31.2 cm - 320 g"
+                },
+                {
+                    "id": 202,
+                    "name": "TV Girl - French Exit - Vinilo",
+                    "price": 1249.99,
+                    "image": "../images/fe.JPG",
+            "details": "0.4 x 31.5 x 31.2 cm - 310 g"
+                }
+]

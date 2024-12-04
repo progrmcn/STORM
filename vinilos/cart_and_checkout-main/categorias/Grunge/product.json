@@ -1,0 +1,30 @@
+[
+            {
+                "id": 122,
+                "name": "The Smashing Pumpkins - Gish - Vinilo",
+                "price": 676.33,
+                "image": "../../images/g.JPG",
+                "details": "31,8 x 31,19 x 1,4 cm - 235,87 g"
+                },  
+                {
+                    "id": 129,
+                    "name": "Nirvana - Bleach - Vinilo",
+                    "price": 567.39,
+                    "image": "../../images/b.JPG",
+                    "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+                    },
+                    {
+                    "id": 130,
+                    "name": "Nirvana - Nevermind - Vinilo",
+                    "price": 761.62,
+                    "image": "../../images/n.JPG",
+                    "details": "34,7 x 32,51 x 2,79 cm - 440 g"
+                    },
+                    {
+                    "id": 131,
+                    "name": "Nirvana - In Utero - Vinilo",
+                    "price": 770.79,
+                    "image": "../../images/iu.JPG",
+                    "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+                    }
+]

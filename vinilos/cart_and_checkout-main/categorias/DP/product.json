@@ -1,0 +1,44 @@
+[
+                {
+                    "id": 177,
+                    "name": "Mazzy Star - She Hangs Brightly - Vinilo",
+                    "price": 6031.91,
+                    "image": "../../images/shb.JPG",
+                    "details": "31,29 x 31,7 x 0,61 cm - 320,06 g"
+                    },
+                    {
+                    "id": 178,
+                    "name": "Mazzy Star - So Tonight That I Might See - Vinilo",
+                    "price": 612.20,
+                    "image": "../../images/sttims.JPG",
+                    "details": "30,99 x 30,99 x 0,3 cm - 263,93 g"
+                    },
+                    {
+                    "id": 179,
+                    "name": "Mazzy Star - Among My Swan - Vinilo",
+                    "price": 13032.20,
+                    "image": "../../images/ams.JPG",
+                    "details": "11,91 x 27,41 x 0,3 cm - 333,96 g"
+                    },
+                    {
+                        "id": 188,
+                        "name": "Slowdive - Pygmalion - Vinilo",
+                        "price": 1189.99,
+                        "image": "../../images/py.JPG",
+                        "details": "0.4 x 31.5 x 31.5 cm - 295 g"
+                        },
+                        {
+                            "id": 190,
+                            "name": "Lush - Spooky - Vinilo",
+                            "price": 1099.99,
+                            "image": "../../images/sp.JPG",
+                    "details": "0.4 x 31.5 x 31.2 cm - 290 g"
+                        },
+                        {
+                            "id": 191,
+                            "name": "Lush - Split - Vinilo",
+                            "price": 1249.99,
+                            "image": "../../images/spli.JPG",
+                    "details": "0.5 x 31.5 x 31.5 cm - 310 g"
+                        }
+]

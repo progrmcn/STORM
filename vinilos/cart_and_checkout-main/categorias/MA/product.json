@@ -1,0 +1,93 @@
+[
+                {
+                    "id": 109,
+                    "name": "Deftones - Adrenaline - Vinilo",
+                    "price": 650.18,
+                    "image": "../../images/a.JPG",
+                    "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+                    },
+                    {
+                    "id": 110,
+                    "name": "Deftones - Around The Fur - Vinilo",
+                    "price": 663.22,
+                    "image": "../../images/atf.JPG",
+                    "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+                    },
+                    {
+                    "id": 111,
+                    "name": "Deftones - Deftones - Vinilo",
+                    "price": 625.85,
+                    "image": "../../images/d.JPG",
+                    "details": "0,3 x 31,2 x 31,5 cm - 294,84 g"
+                    },
+                    {
+                    "id": 112,
+                    "name": "Deftones - Saturday Night Wrist - Vinilo",
+                    "price": 824.87,
+                    "image": "../../images/snw.JPG",
+                    "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+                    },
+                    {
+                    "id": 113,
+                    "name": "Deftones - Diamond Eyes - Vinilo",
+                    "price": 900.99,
+                    "image": "../../images/de.JPG",
+                    "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+                    },
+                    {
+                    "id": 114,
+                    "name": "Deftones - Koi No Yokan - Vinilo",
+                    "price": 574.29,
+                    "image": "../../images/kny.JPG",
+                    "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+                    },
+                    {
+                    "id": 115,
+                    "name": "Deftones - Ohms - Vinilo",
+                    "price": 620.15,
+                    "image": "../../images/ohms.JPG",
+                    "details": "31,39 x 31,39 x 0,79 cm - 235,87 g"
+                    },
+                    {
+                        "id": 139,
+                        "name": "System of a down - System of a down - Vinilo",
+                        "price": 524.36,
+                        "image": "../../images/soad.JPG",
+                        "details": "30,99 x 30,99 x 0,51 cm - 272,16 g"
+                        },
+                        {
+                        "id": 140,
+                        "name": "System of a down - Toxicity - Vinilo",
+                        "price": 699.00,
+                        "image": "../../images/t.JPEG",
+                        "details": "30,48 x 30,73 x 0,51 cm - 68,04 g"
+                        },
+                        {
+                        "id": 141,
+                        "name": "System of a down - Steal This Album! - Vinilo",
+                        "price": 613.88,
+                        "image": "../../images/sta.JPG",
+                        "details": "30,73 x 30,73 x 0,76 cm - 476,27 g"
+                        },
+                        {
+                        "id": 142,
+                        "name": "System of a down - Mezmerize - Vinilo",
+                        "price": 509.48,
+                        "image": "../../images/m.JPG",
+                        "details": "31,24 x 31,19 x 0,53 cm - 267,62 g"
+                        },
+                        {
+                        "id": 143,
+                        "name": "System of a down - Hypnotize - Vinilo",
+                        "price": 524.36,
+                        "image": "../../images/h.JPEG",
+                        "details": "27,43 x 27,69 x 0,51 cm - 249,48 g"
+                        },
+                        {
+                            "id": 195,
+                            "name": "Fleshwater - We're Not Here to Be Loved - Vinilo",
+                            "price": 1199.99,
+                            "image": "../../images/wnhtbl.JPG",
+                    "details": "0.4 x 31.5 x 31.5 cm - 300 g"
+                        }
+]

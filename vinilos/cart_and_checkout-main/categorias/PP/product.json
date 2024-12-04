@@ -1,0 +1,66 @@
+[
+        {
+                "id": 120,
+                "name": "Joy Division - Unknown Pleasures - Vinilo",
+                "price": 631.20,
+                "image": "../../images/up.JPG",
+                "details": "30,48 x 32 x 2,54 cm - 226,8 g"
+                },
+                {
+                "id": 121,
+                "name": "Joy Division - Closer - Vinilo",
+                "price": 623.26,
+                "image": "../../images/c.JPG",
+                "details": "30,48 x 32 x 2,54 cm - 226,8 g"
+                },
+                {
+                        "id": 166,
+                        "name": "The Cure - Three Imaginary Boys - Vinilo",
+                        "price": 706.47,
+                        "image": "../../images/tib.JPG",
+                        "details": "31,39 x 31,39 x 0,79 cm - 235,87 g"
+                        },
+                        {
+                        "id": 167,
+                        "name": "The Cure - Seventeen Seconds - Vinilo",
+                        "price": 676.28,
+                        "image": "../../images/ss.JPEG",
+                        "details": "30,48 x 32 x 2,54 cm - 226,8 g"
+                        },
+                        {
+                        "id": 168,
+                        "name": "The Cure - Faith - Vinilo",
+                        "price": 699.00,
+                        "image": "../../images/f.JPG",
+                        "details": "30,48 x 32 x 2,54 cm - 226,8 g"
+                        },
+                        {
+                        "id": 169,
+                        "name": "The Cure - Pornography - Vinilo",
+                        "price": 937.13,
+                        "image": "../../images/po.JPG",
+                        "details": "30,48 x 32 x 2,54 cm - 226,8 g"
+                        },
+                        {
+                        "id": 170,
+                        "name": "The Cure - The Head on the Door - Vinilo",
+                        "price": 808.23,
+                        "image": "../../images/thotd.JPG",
+                        "details": "30,48 x 32 x 2,54 cm - 226,8 g"
+                        },
+                        {
+                        "id": 171,
+                        "name": "The Cure - Kiss Me, Kiss Me, Kiss Me - Vinilo",
+                        "price": 846.87,
+                        "image": "../../images/km.JPEG",
+                        "details": "30,48 x 32 x 2,54 cm - 226,8 g"
+                        },
+                        {
+                        "id": 172,
+                        "name": "The Cure - Disintegration - Vinilo",
+                        "price": 649.59,
+                        "image": "../../images/di.JPG",
+                        "details": "31,19 x 31,7 x 1,4 cm - 650,05 g"
+                        }     
+                
+]

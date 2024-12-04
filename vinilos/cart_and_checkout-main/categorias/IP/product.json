@@ -1,0 +1,17 @@
+[
+                {
+                    "id": 201,
+                    "name": "TV Girl - Who Really Cares - Vinilo",
+                    "price": 1199.99,
+                    "image": "../../images/wrc.PNG",
+            "details": "0.4 x 31.5 x 31.5 cm - 300 g"
+                },
+                {
+                    "id": 202,
+                    "name": "TV Girl - French Exit - Vinilo",
+                    "price": 1249.99,
+                    "image": "../../images/fe.JPG",
+            "details": "0.4 x 31.5 x 31.2 cm - 310 g"
+                }
+                
+]

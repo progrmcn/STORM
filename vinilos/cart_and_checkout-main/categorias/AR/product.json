@@ -1,0 +1,31 @@
+[
+        {
+                "id": 105,
+                "name": "Radiohead - Kid A - Vinilo",
+                "price": 629.70,
+                "image": "../../images/ka.JPG",
+                "details": "31,8 x 31,5 x 0,79 cm - 561,89 g"
+                },
+                {
+                "id": 106,
+                "name": "Radiohead - Amnesiac - Vinilo",
+                "price": 997.47,
+                "image": "../../images/amn.JPG",
+                "details": "30,48 x 32 x 2,54 cm - 226,8 g"
+                },
+                {
+                "id": 107,
+                "name": "Radiohead - In Rainbows - Vinilo",
+                "price": 1097.00,
+                "image": "../../images/ir.JPG",
+                "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
+                },
+                {
+                "id": 108,
+                "name": "Radiohead - A Moon Shaped Pool - Vinilo",
+                "price": 852.19,
+                "image": "../../images/amsp.JPG",
+                "details": "31,5 x 31,2 x 1 cm - 560 g"
+                }
+                         
+]
