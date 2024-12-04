@@ -11,14 +11,14 @@
         "id": 103,
         "name": "Radiohead - The Bends - Vinilo",
         "price": 1097.00,
-        "image": "images/tb.jpg",
+        "image": "images/tb.jpeg",
         "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
         },
         {
         "id": 104,
         "name": "Radiohead - OK Computer - Vinilo",
         "price": 958.61,
-        "image": "images/oc.jpg",
+        "image": "images/oc.jpeg",
         "details": "31,5 x 31,19 x 0,79 cm - 566,14 g"
         }
         ,
