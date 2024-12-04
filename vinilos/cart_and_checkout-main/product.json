@@ -3,7 +3,7 @@
         "id": 102,
         "name": "Radiohead - Pablo Honey - Vinilo",
         "price": 880.07,
-        "image": "images/ph.jpg",
+        "image": "images/ph.jpeg",
         "details": "31,29 x 31,39 x 0,79 cm - 235,87 g"
         
         },
@@ -26,7 +26,7 @@
         "id": 105,
         "name": "Radiohead - Kid A - Vinilo",
         "price": 629.70,
-        "image": "images/ka.jpg",
+        "image": "images/ka.jpeg",
         "details": "31,8 x 31,5 x 0,79 cm - 561,89 g"
         },
         {
